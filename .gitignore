@@ -1,0 +1,16 @@
+# Never commit game data, saves, or media — code and docs only.
+*.sav
+*.srm
+*.mcd
+*.bin
+*.cue
+*.iso
+*.mp4
+*.state*
+states/
+video/
+vm/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
